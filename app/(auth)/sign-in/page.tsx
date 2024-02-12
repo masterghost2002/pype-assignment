@@ -49,7 +49,7 @@ export default function SignInPage() {
                 onSubmit = {handleSignIn}
                 isLoading={isLoading}
             />
-            <Link href="/sign-up" className="text-blue-400">Don't have an account?Sign Up</Link>
+            <Link href="/sign-up" className="text-blue-400">Don&apos;t have an account?Sign Up</Link>
         </div>
     )
 }
