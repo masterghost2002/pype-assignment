@@ -25,7 +25,6 @@ export default function ServerSetupPage() {
             }, 1000)
         } catch (error: any) {
             setIsLoading(false);
-            throw Error(error.response.data);
         }
     }
     const createUser = async (data:SignUpFormType):Promise<void>=>{
