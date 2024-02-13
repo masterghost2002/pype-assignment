@@ -6,7 +6,7 @@ This is a Progressive Web Application (PWA) built with Next.js that displays the
 ## Preview
 
 
-https://github.com/masterghost2002/na-west-weather/assets/55751461/aed93e20-d81b-41dc-abbf-7819b5c4c78b
+[https://github.com/masterghost2002/na-west-weather/assets/55751461/aed93e20-d81b-41dc-abbf-7819b5c4c78b](https://drive.google.com/file/d/1Y8oDK1Rk8izrCdbbFDAXwROz60VpvxzM/view?usp=drive_link)
 
 
 ## Features
